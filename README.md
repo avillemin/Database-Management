@@ -45,5 +45,15 @@ Results:
 ![alt text](https://github.com/avillemin/Search-tree/blob/master/30232176_10213964672223971_1985488162_o.png?raw=true)
 
 We decided to apply the best first algorithm only when the dimension  is inferior to 12.
+We can explain this difference by how a
+Kd-Tree is built. Indeed, when we go from a parent to a child in a kd-tree, we split only one dimension.
+As the number of points doesn’t change in the tree, the distance in a tree between the root and a leaf
+remains the same. So, each dimension is ten times less split in dimension 20 than in dimension 2. So
+finally when we apply the minimum distance between the mbr and the query point, it is more often
+higher than first distance in the max heap which mean that we will check more mbr.
 
 ![alt text](https://github.com/avillemin/Search-tree/blob/master/30768077_10213964672183970_1190740811_o.png?raw=true)
+
+For the second graph we observe that the ratio increases with the dimension. Indeed, if we increase
+the dimension, the space has become larger which means that the average distance between each
+point has increased. So the 100th nearest point will be farther when we increase the dimension.
