@@ -43,6 +43,6 @@ Results:
 
 ![alt text](https://github.com/avillemin/Search-tree/blob/master/30232176_10213964672223971_1985488162_o.png?raw=true)
 
-We decided to apply the best first algorithm only when the dimension  if inferior to 12.
+We decided to apply the best first algorithm only when the dimension  is inferior to 12.
 
 ![alt text](https://github.com/avillemin/Search-tree/blob/master/30768077_10213964672183970_1190740811_o.png?raw=true)
