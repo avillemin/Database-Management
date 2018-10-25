@@ -1,0 +1,1 @@
+﻿COPY registers FROM 'C:\Users\Portable\Desktop\Data.csv' WITH DELIMITER AS ',' CSV QUOTE AS '"';
