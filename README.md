@@ -3,7 +3,7 @@
 Assignment realized at IITD.
 Subject :
 
-1. Implement a KD-tree for any arbitrary dimension up to 20. Obviously, you should ensure your
+1. Implement a **KD-tree for any arbitrary dimension up to 20**. Obviously, you should ensure your
 implementation is as fast as possible. You may also assume that each dimension takes only
 non-negative values, i.e., no dimension of a point contains a value less than 0.
 
