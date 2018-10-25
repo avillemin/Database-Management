@@ -1,4 +1,4 @@
-# Search-tree
+# KD-tree
 
 Assignment realized at IITD.
 Subject :
