@@ -38,3 +38,11 @@ Submission format:
 Put all your code, run.sh and writeups in a directory named <entry no.1>_<entry no.2>_<entry no.3>
 and zip the folder. The zip file should be named as <entry no.1>_<entry no.2>_<entry no.3>.zip. (Please
 note: Use your entry numbers of the format 2014CSXXXXX and not the Kerberos Ids)
+
+Results:
+
+![alt text](https://github.com/avillemin/Search-tree/blob/master/30232176_10213964672223971_1985488162_o.png?raw=true)
+
+We decided to apply the best first algorithm only when the dimension  if inferior to 12.
+
+![alt text](https://github.com/avillemin/Search-tree/blob/master/30768077_10213964672183970_1190740811_o.png?raw=true)
