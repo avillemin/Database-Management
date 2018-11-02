@@ -34,6 +34,8 @@ i. The grading criteria for this competition is as follows
 ii. We will run multiple queries and your final score would be the average score of
 them all. Only 100% accurate answer sets would be counted.
 
+![alt text](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/_images/KDtree.png)
+
 
 Submission format:
 Put all your code, run.sh and writeups in a directory named <entry no.1>_<entry no.2>_<entry no.3>
